@@ -1,0 +1,15 @@
+Nom du joueur : krustea, score : 6 
+Nom du joueur : pierre, score : 6 
+Nom du joueur : jean, score : 4 
+Nom du joueur : adrien, score : 4 
+Nom du joueur : krustea, score : 0 
+Nom du joueur : krustea, score : 4 
+Nom du joueur : pierre, score : 5 
+Nom du joueur : kruste, score : 6 
+Nom du joueur : peirre, score : 8 
+Nom du joueur : pierre, score : 4 
+Nom du joueur : jean, score : 4 
+Nom du joueur : krustea, score : 9 
+Nom du joueur : kr, score : 0 
+Nom du joueur : krustea, score : 7 
+Nom du joueur : pierre, score : 5 
